@@ -76,5 +76,5 @@ This project is a simple CRUD built with **Java**, using **Spring Boot**, **Post
 ## 📫 Contato / Contact
 
 **João Victor Moreira da Costa**  
-[LinkedIn](https://www.linkedin.com/in/joaovictordamcosta)  
+[LinkedIn](https://www.linkedin.com/in/joaovictormdacosta)  
 📧 contato.joaovictormcosta@gmail..com
